@@ -3,7 +3,7 @@
 
 ### These are slides for my multivarible presentation on March 14th 2024.
 ### You only need to do a few things to get this up and running
-note: Tested on Python version 10
+Note: Tested on Python version 10
 
 First: Download the file and go to its directory via some sort of commandline software.
 
